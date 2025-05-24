@@ -1,0 +1,46 @@
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe.config
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.pdb
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\bin\Debug\Guna.UI2.dll
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Form1.resources
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\_____ __.D3B59E12.Up2Date
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.exe
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.pdb
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.ItemsManagment.resources
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CategoryMangment.resources
+C:\Users\NOFAL\Desktop\Api's\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CartManagment.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe.config
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.pdb
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\bin\Debug\Guna.UI2.dll
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.exe.config
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CartManagment.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CategoryMangment.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Form1.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.ItemsManagment.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Properties.Resources.resources
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.GenerateResource.cache
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\_____ __.D3B59E12.Up2Date
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.exe
+C:\Users\111\Desktop\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.pdb
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe.config
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.exe
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\bin\Debug\إدارة المبيعات.pdb
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\bin\Debug\Guna.UI2.dll
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.AssemblyReference.cache
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CartManagment.resources
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.CategoryMangment.resources
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Form1.resources
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.ItemsManagment.resources
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة_المبيعات.Properties.Resources.resources
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.GenerateResource.cache
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.csproj.CoreCompileInputs.cache
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة ال.D3B59E12.Up2Date
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.exe
+C:\Users\Noor\Desktop\Zakarea\إدارة المبيعات\إدارة المبيعات\obj\Debug\إدارة المبيعات.pdb
